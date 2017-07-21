@@ -7,3 +7,6 @@ git push -u origin master <br>
 git add -A <br>
 git commit -m "initial commit" <br>
 git push origin master <br>
+
+
+git pull origin master <br>
